@@ -9,5 +9,10 @@ This project focuses on fine-tuning lightweight multimodal large language models
 
 ### Qwen2-VL-2B-Instruct
 - **Model**: [Qwen2-VL-2B](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)
-- **Dataset**: [K-MMStar](https://huggingface.co/datasets/NCSOFT/K-MMStar)
+- **Dataset 1**: [K-MMStar](https://huggingface.co/datasets/NCSOFT/K-MMStar)
   - Translated to English using Qwen2-7B
+- **Dataset 2**: [SCPC AI Contest Dataset](https://dacon.io/competitions/official/236500/data)
+
+## Environment
+- Google Colab Pro+
+- 1 A100 40GB GPU, 80GB RAM
